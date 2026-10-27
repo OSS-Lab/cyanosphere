@@ -1,0 +1,45 @@
+# ------ Samples ------
+#samples: ['M_68','M_69','M_70','M_71','M_72','M_73'] # specify a list samples to use or '*' to use all samples
+#samples: ['M_219','M_220','M_221','M_222','M_223'] # specify a list samples to use or '*' to use all samples
+samples: ['WAMOS_02','WAMOS_03'] # specify a list samples to use or '*' to use all samples
+
+# ------ Resources ------
+threads : 20 # single task nb threads
+
+# ------ Assembly parameters ------ 
+data: /home/lifesci/lfsnhf/STRONG_SPACE/input_reads # path to data folder
+
+# ----- Annotation database -----
+cog_database: /home/lifesci/lfsnhf/STRONG_SPACE/rpsblast_cog_db/Cog  # COG database
+
+# ----- Binner ------
+binner: "concoct"
+
+# ----- Binning parameters ------
+concoct:
+    contig_size: 1000
+
+read_length: 150
+assembly: 
+    assembler: spades
+    k: [77]
+    mem: 1000
+    threads: 24
+
+# ----- BayesPaths parameters ------
+bayespaths:
+    nb_strains: 2
+    nmf_runs: 1
+    max_giter: 4
+    min_orf_number_to_merge_bins: 20
+    min_orf_number_to_run_a_bin: 15
+    percent_unitigs_shared: 0.1
+
+# ----- DESMAN parameters ------
+desman:
+    execution: 1
+    nb_haplotypes: 2
+    nb_repeat: 2
+    min_cov: 2
+
+

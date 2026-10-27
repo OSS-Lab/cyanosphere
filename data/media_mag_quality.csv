@@ -1,0 +1,182 @@
+bin,medium,total_length,num_contigs,percent_completion,percent_redundancy,t_domain,t_phylum,t_class,t_order,t_family,t_genus,t_species
+VIT_Bin_00044,V,1793909,397,66.19718309859155,1.408450704225352,Bacteria,Bacteroidota,Bacteroidia,Chitinophagales,Chitinophagaceae,Sediminibacterium,Sediminibacterium sp002786355
+VIT_Bin_00049,V,3481853,502,52.11267605633803,2.816901408450704,Bacteria,Actinomycetota,Acidimicrobiia,Acidimicrobiales,Microtrichaceae,JAFAFN01,JAFAFN01 sp023389745
+VIT_Bin_00050,V,5723697,126,61.971830985915496,1.408450704225352,Bacteria,Pseudomonadota,Alphaproteobacteria,Acetobacterales,Acetobacteraceae,Falsiroseomonas,Falsiroseomonas oleicola
+VIT_Bin_00056,V,1721450,430,53.52112676056338,0.0,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhizobiales,,,
+VIT_Bin_00060,V,2807053,619,54.929577464788736,0.0,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Pseudorhodoplanes,Pseudorhodoplanes sp023430245
+VIT_Bin_00063,V,1402846,321,56.33802816901409,1.408450704225352,Bacteria,Verrucomicrobiota,Verrucomicrobiae,Opitutales,Opitutaceae,IMCC26134_A,
+VIT_Bin_00064,V,3278012,339,67.6056338028169,0.0,Bacteria,Gemmatimonadota,Gemmatimonadetes,Gemmatimonadales,Gemmatimonadaceae,PNKF01,PNKF01 sp024710705
+VIT_Bin_00065,V,4958217,559,59.15492957746479,2.816901408450704,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Ga0077523,Ga0077523,
+VIT_Bin_00070,V,4655811,645,50.70422535211268,4.225352112676056,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Ga0077523,Ga0077523,Ga0077523 sp001464895
+VIT_MAG_00001,V,4879614,452,98.59154929577464,5.633802816901408,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,RCIZ01,RCIZ01 sp016793485
+VIT_MAG_00002,V,4511753,88,98.59154929577464,1.408450704225352,Bacteria,Actinomycetota,Acidimicrobiia,Acidimicrobiales,Ilumatobacteraceae,Sva-07,Sva-07 sp024643255
+VIT_MAG_00003,V,3573536,294,76.05633802816901,1.408450704225352,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Burkholderiaceae_B,Hydrogenophaga,
+VIT_MAG_00004,V,6131836,107,98.59154929577464,0.0,Bacteria,Pseudomonadota,Gammaproteobacteria,Steroidobacterales,Steroidobacteraceae,,
+VIT_MAG_00005,V,4437259,57,97.1830985915493,0.0,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,IMCC34051,IMCC34051 sp003605175
+VIT_MAG_00006,V,3545348,597,73.2394366197183,1.408450704225352,Bacteria,Pseudomonadota,Alphaproteobacteria,Reyranellales,Reyranellaceae,Reyranella,
+VIT_MAG_00007,V,4969490,228,92.95774647887325,1.408450704225352,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Aquimonas,Aquimonas voraii
+VIT_MAG_00008,V,5372838,266,87.32394366197182,2.816901408450704,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,,
+VIT_MAG_00009,V,2710251,251,90.14084507042251,1.408450704225352,Bacteria,Pseudomonadota,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,
+VIT_MAG_00010,V,3520733,453,100.0,1.408450704225352,Bacteria,Actinomycetota,Thermoleophilia,Miltoncostaeales,Miltoncostaeaceae,Ga0077560,Ga0077560 sp001464275
+VIT_MAG_00011,V,4348104,712,88.73239436619718,4.225352112676056,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,,
+VIT_MAG_00012,V,4712293,104,98.59154929577464,0.0,Bacteria,Actinomycetota,Acidimicrobiia,Acidimicrobiales,Ilumatobacteraceae,,
+VIT_MAG_00013,V,6793966,63,97.1830985915493,2.816901408450704,Bacteria,Acidobacteriota,Terriglobia,Bryobacterales,Bryobacteraceae,Bryobacter,Bryobacter sp022843625
+VIT_MAG_00014,V,5554963,178,97.1830985915493,0.0,Bacteria,Actinomycetota,Acidimicrobiia,Acidimicrobiales,UBA8592,JAHECR01,JAHECR01 sp024641655
+VIT_MAG_00015,V,3574466,182,80.28169014084507,1.408450704225352,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhizobiales,Hyphomicrobiaceae,Hyphomicrobium_C,Hyphomicrobium_C sp019751875
+VIT_MAG_00016,V,7602654,142,95.77464788732394,1.408450704225352,Bacteria,Planctomycetota,Planctomycetia,Pirellulales,Pirellulaceae,UBA6163,UBA6163 sp002428205
+VIT_MAG_00017,V,6803535,439,81.69014084507042,1.408450704225352,Bacteria,Pseudomonadota,Alphaproteobacteria,Acetobacterales,Acetobacteraceae,Falsiroseomonas,Falsiroseomonas bella
+VIT_MAG_00018,V,4777947,478,76.05633802816901,7.042253521126761,Bacteria,Pseudomonadota,Alphaproteobacteria,Acetobacterales,Acetobacteraceae,Roseomonas_B,Roseomonas_B sp005222755
+VIT_MAG_00019,V,2415258,54,97.1830985915493,0.0,Bacteria,Actinomycetota,Actinomycetia,,,,
+VIT_MAG_00020,V,7070451,376,95.77464788732394,5.633802816901408,Bacteria,Verrucomicrobiota,Verrucomicrobiae,Pedosphaerales,UBA9464,UBA9464,UBA9464 sp017309115
+VIT_MAG_00021,V,6818280,413,91.54929577464787,2.816901408450704,Bacteria,Planctomycetota,Planctomycetia,Gemmatales,Gemmataceae,JALHQU01,JALHQU01 sp022841795
+VIT_MAG_00022,V,3146233,208,94.3661971830986,2.816901408450704,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Burkholderiaceae,Limnobacter,
+VIT_MAG_00023,V,6802254,95,98.59154929577464,0.0,Bacteria,Actinomycetota,Acidimicrobiia,Acidimicrobiales,CAIXPF01,VGBO01,VGBO01 sp016870475
+VIT_MAG_00024,V,3215186,62,97.1830985915493,0.0,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Crocinitomicaceae,UBA6165,UBA6165 sp002422285
+VIT_MAG_00025,V,5559505,72,97.1830985915493,4.225352112676056,Bacteria,Acidobacteriota,Vicinamibacteria,Vicinamibacterales,UBA2999,VFZN01,VFZN01 sp020851325
+VIT_MAG_00026,V,5774135,240,83.09859154929578,0.0,Bacteria,Actinomycetota,Acidimicrobiia,Acidimicrobiales,Ilumatobacteraceae,,
+VIT_MAG_00027,V,2498573,21,100.0,1.408450704225352,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Methylophilaceae,Methylophilus,Methylophilus sp001464125
+NOVIT_Bin_00060,NV,2796632,591,63.38028169014085,1.408450704225352,Bacteria,Pseudomonadota,Alphaproteobacteria,Acetobacterales,Acetobacteraceae,Roseomonas_B,
+NOVIT_Bin_00066,NV,4768461,99,60.563380281690144,0.0,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,,
+NOVIT_Bin_00067,NV,4449956,99,53.52112676056338,4.225352112676056,Bacteria,Pseudomonadota,Alphaproteobacteria,Acetobacterales,Acetobacteraceae,Roseomonas_B,Roseomonas_B sp005222755
+NOVIT_Bin_00069,NV,3929406,296,60.563380281690144,4.225352112676056,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Burkholderiaceae_B,Rubrivivax,Rubrivivax sp001295905
+NOVIT_Bin_00077,NV,4279540,324,61.971830985915496,4.225352112676056,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Burkholderiaceae_B,Rubrivivax,Rubrivivax sp001295905
+NOVIT_MAG_00001,NV,21226029,2357,80.72289156626506,7.228915662650603,,,,,,,
+NOVIT_MAG_00002,NV,3457730,22,92.95774647887325,4.225352112676056,Bacteria,Pseudomonadota,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Erythrobacter,
+NOVIT_MAG_00003,NV,3818417,286,91.54929577464787,1.408450704225352,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Gemmobacter_B,Gemmobacter_B sp022843025
+NOVIT_MAG_00004,NV,3645703,191,97.1830985915493,2.816901408450704,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhizobiales,Hyphomicrobiaceae,Hyphomicrobium_C,Hyphomicrobium_C sp019751875
+NOVIT_MAG_00005,NV,5219975,67,92.95774647887325,0.0,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Burkholderiaceae_B,,
+NOVIT_MAG_00006,NV,2842897,82,94.3661971830986,4.225352112676056,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,,,
+NOVIT_MAG_00007,NV,4102729,686,94.3661971830986,1.408450704225352,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Cyclobacteriaceae,Aquiflexum_A,Aquiflexum_A aquatile
+NOVIT_MAG_00008,NV,5588225,82,91.54929577464787,0.0,Bacteria,Pseudomonadota,Alphaproteobacteria,Reyranellales,Reyranellaceae,Reyranella,
+NOVIT_MAG_00009,NV,7763976,1206,85.91549295774648,7.042253521126761,Bacteria,Planctomycetota,Planctomycetia,Gemmatales,Gemmataceae,JAGVLI01,JAGVLI01 sp016795185
+NOVIT_MAG_00010,NV,3877069,9,91.54929577464787,1.408450704225352,Bacteria,Spirochaetota,Leptospirae,Leptospirales,Leptospiraceae,Leptospira_A,
+NOVIT_MAG_00011,NV,3207364,46,98.59154929577464,0.0,Bacteria,Bacteroidota,Bacteroidia,UBA7662,UBA7662,PNNG01,PNNG01 sp013824115
+NOVIT_MAG_00012,NV,5098747,72,97.1830985915493,2.816901408450704,Bacteria,Cyanobacteriota,Cyanobacteriia,Leptolyngbyales,Leptolyngbyaceae,Leptolyngbya,Leptolyngbya tanganyikae
+NOVIT_MAG_00013,NV,2149472,120,94.3661971830986,0.0,Bacteria,,,,,,
+NOVIT_MAG_00014,NV,5259061,71,92.95774647887325,1.408450704225352,Bacteria,Actinomycetota,Acidimicrobiia,Acidimicrobiales,Ilumatobacteraceae,VFMC01,VFMC01 sp009704985
+NOVIT_MAG_00015,NV,3799457,27,100.0,1.408450704225352,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Tabrizicola,Tabrizicola piscis
+NOVIT_MAG_00016,NV,6039343,187,98.59154929577464,0.0,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Aquimonas,Aquimonas voraii
+NOVIT_MAG_00017,NV,3177272,36,97.1830985915493,0.0,Bacteria,Bacteroidota,Bacteroidia,UBA7662,UBA7662,UBA7662,UBA7662 sp002483345
+NOVIT_MAG_00018,NV,5344514,105,78.87323943661971,7.042253521126761,Bacteria,Pseudomonadota,Alphaproteobacteria,Acetobacterales,Acetobacteraceae,Roseomonas_B,Roseomonas_B sp022846615
+NOVIT_MAG_00019,NV,3800853,40,95.77464788732394,7.042253521126761,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhizobiales,Beijerinckiaceae,Bosea,Bosea sp023910605
+NOVIT_MAG_00020,NV,4751516,288,90.14084507042251,9.859154929577464,Bacteria,Pseudomonadota,Alphaproteobacteria,Acetobacterales,Acetobacteraceae,Falsiroseomonas,Falsiroseomonas bella
+NOVIT_MAG_00021,NV,3500513,85,97.1830985915493,4.225352112676056,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhizobiales,Beijerinckiaceae,Bosea,Bosea sp023910605
+NOVIT_MAG_00022,NV,3848407,623,80.28169014084507,4.225352112676056,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhizobiales,Beijerinckiaceae,Bosea,Bosea sp001713455
+NOVIT_MAG_00023,NV,4460940,8,94.3661971830986,2.816901408450704,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas_E,
+NOVIT_MAG_00024,NV,6873060,42,98.59154929577464,1.408450704225352,Bacteria,Acidobacteriota,Terriglobia,Bryobacterales,Bryobacteraceae,Ga0077553,
+NOVIT_MAG_00025,NV,7440487,188,94.3661971830986,1.408450704225352,Bacteria,Planctomycetota,Planctomycetia,Pirellulales,Pirellulaceae,Pirellula_B,Pirellula_B sp001610875
+NOVIT_MAG_00026,NV,3184903,63,95.77464788732394,0.0,Bacteria,Bacteroidota,Bacteroidia,Chitinophagales,Chitinophagaceae,Sediminibacterium,Sediminibacterium sp002786355
+NOVIT_MAG_00027,NV,3426252,13,100.0,0.0,Bacteria,Pseudomonadota,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sandarakinorhabdus,
+NOVIT_MAG_00028,NV,3829991,28,92.95774647887325,1.408450704225352,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhizobiales,Beijerinckiaceae,Bosea,Bosea sp023910605
+NOVIT_MAG_00029,NV,3021223,20,97.1830985915493,1.408450704225352,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UKL13-3,UKL13-3,UKL13-3 sp001602415
+NONANO_Bin_00091,NVNN,558531,125,53.52112676,1.408450704,Bacteria,Pseudomonadota,Gammaproteobacteria,DSM-16500,DSM-16500,JABDDA01,JABDDA01 sp013287845
+NONANO_Bin_00100,NVNN,6717958,609,60.56338028,1.408450704,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Ensifer,
+NONANO_Bin_00102,NVNN,4021704,589,59.15492958,4.225352113,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,,
+NONANO_Bin_00103,NVNN,6237285,330,60.56338028,0.0,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas_E,
+NONANO_Bin_00104,NVNN,3864359,600,59.15492958,1.408450704,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,SG8-39,CAIVVS01,CAIVVS01 sp903909415
+NONANO_Bin_00106,NVNN,4920046,129,66.1971831,1.408450704,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Allorhizobium,
+NONANO_Bin_00108,NVNN,6536432,452,53.52112676,0.0,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,,,
+NONANO_Bin_00110,NVNN,5572133,327,54.92957746,2.816901408,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Burkholderiaceae_B,Aquabacterium_A,
+NONANO_Bin_00114,NVNN,2628563,485,64.78873239,1.408450704,Bacteria,,,,,,
+NONANO_Bin_00117,NVNN,2118094,232,54.92957746,1.408450704,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Burkholderiaceae_B,Hydrogenophaga,
+NONANO_Bin_00118,NVNN,5268003,876,59.15492958,1.408450704,Bacteria,Planctomycetota,Planctomycetia,Planctomycetales,Planctomycetaceae,SXXK01,SXXK01 sp903921605
+NONANO_Bin_00119,NVNN,3340195,34,60.56338028,1.408450704,Bacteria,Pseudomonadota,Alphaproteobacteria,CACIAM-22H2,CACIAM-22H2,Tagaea,Tagaea sp020248985
+NONANO_Bin_00121,NVNN,3303620,168,50.70422535,1.408450704,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Burkholderiaceae_B,Polaromonas,
+NONANO_Bin_00123,NVNN,5693845,230,56.33802817,2.816901408,Bacteria,Pseudomonadota,Alphaproteobacteria,Acetobacterales,Acetobacteraceae,,
+NONANO_Bin_00129,NVNN,3923516,789,53.52112676,1.408450704,Bacteria,Pseudomonadota,Gammaproteobacteria,,,,
+NONANO_Bin_00134,NVNN,2623231,446,66.1971831,2.816901408,Bacteria,Pseudomonadota,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sandarakinorhabdus,Sandarakinorhabdus cyanobacteriorum
+NONANO_Bin_00139,NVNN,4158011,1001,53.52112676,2.816901408,Bacteria,Planctomycetota,Planctomycetia,Gemmatales,Gemmataceae,,
+NONANO_Bin_00140,NVNN,3851512,122,61.97183099,2.816901408,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Tabrizicola,Tabrizicola sp022842145
+NONANO_Bin_00142,NVNN,4012431,741,61.97183099,0.0,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhizobiales,Hyphomicrobiaceae,AWTP1-13,AWTP1-13 sp003963125
+NONANO_Bin_00143,NVNN,2062746,264,63.38028169,2.816901408,Bacteria,Cyanobacteriota,Cyanobacteriia,PCC-6307,Cyanobiaceae,WH-5701,
+NONANO_Bin_00147,NVNN,1892364,490,53.52112676,2.816901408,Bacteria,Gemmatimonadota,Gemmatimonadetes,Gemmatimonadales,Gemmatimonadaceae,Gemmatimonas,Gemmatimonas sp017991005
+NONANO_Bin_00149,NVNN,3791694,387,56.33802817,2.816901408,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhizobiales,Aestuariivirgaceae,Aestuariivirga,Aestuariivirga sp945889445
+NONANO_Bin_00150,NVNN,3467095,451,54.92957746,4.225352113,Bacteria,Pseudomonadota,Alphaproteobacteria,CACIAM-22H2,CACIAM-22H2,Tagaea,Tagaea sp016794005
+NONANO_Bin_00153,NVNN,4902588,716,61.97183099,5.633802817,Bacteria,Pseudomonadota,Alphaproteobacteria,Acetobacterales,Acetobacteraceae,Falsiroseomonas,Falsiroseomonas ponticola
+NONANO_Bin_00155,NVNN,3576766,68,66.1971831,1.408450704,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Gemmobacter_B,Gemmobacter_B sp022843025
+NONANO_Bin_00156,NVNN,2999226,72,61.97183099,7.042253521,Bacteria,Pseudomonadota,Alphaproteobacteria,,,,
+NONANO_Bin_00159,NVNN,4652175,97,60.56338028,0.0,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Allorhizobium,Allorhizobium sp002855515
+NONANO_Bin_00162,NVNN,5997656,183,52.11267606,4.225352113,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Burkholderiaceae_B,Rubrivivax,Rubrivivax sp016790435
+NONANO_Bin_00164,NVNN,2882380,556,59.15492958,1.408450704,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Cyclobacteriaceae,ELB16-189,ELB16-189 sp002352225
+NONANO_Bin_00167,NVNN,3248812,82,54.92957746,0.0,Bacteria,Pseudomonadota,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Erythrobacter,
+NONANO_Bin_00170,NVNN,1078158,86,64.78873239,1.408450704,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Methylophilaceae,Methylopumilus,
+NONANO_Bin_00171,NVNN,3462031,521,64.78873239,0.0,Bacteria,Bacteroidota,Bacteroidia,Chitinophagales,Chitinophagaceae,Flavipsychrobacter,Flavipsychrobacter sp021740995
+NONANO_Bin_00175,NVNN,2526616,380,56.33802817,0.0,Bacteria,Pseudomonadota,Alphaproteobacteria,,,,
+NONANO_Bin_00176,NVNN,2847647,13,57.74647887,0.0,Bacteria,Planctomycetota,Planctomycetia,Pirellulales,JALHPA01,JALHPA01,JALHPA01 sp022842745
+NONANO_Bin_00179,NVNN,1385768,184,57.74647887,0.0,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Burkholderiaceae,Polynucleobacter,
+NONANO_Bin_00180,NVNN,3212562,570,61.97183099,8.450704225,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Tabrizicola,Tabrizicola piscis
+NONANO_Bin_00181,NVNN,3583766,113,67.6056338,2.816901408,Bacteria,Pseudomonadota,Alphaproteobacteria,CACIAM-22H2,CACIAM-22H2,Tagaea,Tagaea sp945901855
+NONANO_MAG_00001,NVNN,3246960,39,94.36619718,1.408450704,Bacteria,,,,,,
+NONANO_MAG_00002,NVNN,2913096,149,92.95774648,0.0,Bacteria,Bacteroidota,Bacteroidia,Chitinophagales,Chitinophagaceae,Sediminibacterium,Sediminibacterium sp002786355
+NONANO_MAG_00003,NVNN,3602525,337,70.42253521,0.0,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Burkholderiaceae_B,Acidovorax,
+NONANO_MAG_00004,NVNN,5966836,106,95.77464789,5.633802817,Bacteria,Planctomycetota,UBA1135,UBA2386,UBA2386,UBA2386,UBA2386 sp016793305
+NONANO_MAG_00005,NVNN,5809736,92,95.77464789,5.633802817,Bacteria,Cyanobacteriota,Vampirovibrionia,Obscuribacterales,Obscuribacteraceae,Ga0077546,
+NONANO_MAG_00006,NVNN,6590031,343,98.5915493,2.816901408,Bacteria,Acidobacteriota,Terriglobia,Bryobacterales,Bryobacteraceae,Bryobacter,Bryobacter sp022843625
+NONANO_MAG_00007,NVNN,1655770,195,84.50704225,2.816901408,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Burkholderiaceae,Polynucleobacter,Polynucleobacter difficilis
+NONANO_MAG_00008,NVNN,4206393,552,84.50704225,0.0,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhizobiales,Beijerinckiaceae,Bosea,Bosea sp001713455
+NONANO_MAG_00009,NVNN,1794445,29,92.95774648,0.0,Bacteria,,,,,,
+NONANO_MAG_00010,NVNN,4791169,75,92.95774648,0.0,,,,,,,
+NONANO_MAG_00011,NVNN,7088763,677,92.95774648,1.408450704,Bacteria,Planctomycetota,Planctomycetia,Planctomycetales,Planctomycetaceae,SXXK01,SXXK01 sp003669615
+NONANO_MAG_00012,NVNN,3580629,115,74.64788732,1.408450704,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhizobiales,Beijerinckiaceae,Bosea,Bosea sp023910605
+NONANO_MAG_00013,NVNN,4720698,51,98.5915493,0.0,Bacteria,,,,,,
+NONANO_MAG_00014,NVNN,4149258,192,85.91549296,0.0,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UKL13-3,JAGPCK01,JAGPCK01 sp019695215
+NONANO_MAG_00015,NVNN,5198133,78,92.95774648,0.0,Bacteria,Pseudomonadota,Gammaproteobacteria,Ga0077536,Ga0077536,Ga0077536,Ga0077536 sp001464935
+NONANO_MAG_00016,NVNN,3600014,26,83.09859155,1.408450704,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UKL13-3,UBA6183,UBA6183 sp004293295
+NONANO_MAG_00017,NVNN,3695208,268,74.64788732,5.633802817,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Burkholderiaceae_B,Polaromonas,
+NONANO_MAG_00018,NVNN,4214377,174,95.77464789,4.225352113,Bacteria,Planctomycetota,Phycisphaerae,Phycisphaerales,,,
+NONANO_MAG_00019,NVNN,5703027,102,94.36619718,0.0,Bacteria,Bacteroidota,Bacteroidia,Chitinophagales,Chitinophagaceae,Ferruginibacter,Ferruginibacter sp013298665
+NONANO_MAG_00020,NVNN,2395334,273,87.32394366,1.408450704,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Burkholderiaceae,SYFN01,SYFN01 sp945883145
+NONANO_MAG_00021,NVNN,2537092,113,91.54929577,2.816901408,Bacteria,Pseudomonadota,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,
+NONANO_MAG_00022,NVNN,2530561,23,92.95774648,1.408450704,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Methylophilaceae,,
+NONANO_MAG_00023,NVNN,5685470,39,92.95774648,0.0,Bacteria,Verrucomicrobiota,Verrucomicrobiae,Opitutales,Opitutaceae,Tous-C4FEB,Tous-C4FEB sp002304445
+NONANO_MAG_00024,NVNN,4830346,35,94.36619718,2.816901408,Bacteria,Pseudomonadota,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Phenylobacterium,Phenylobacterium sp004299445
+NONANO_MAG_00025,NVNN,2874126,29,73.23943662,0.0,Bacteria,Pseudomonadota,Alphaproteobacteria,Caulobacterales,Hyphomonadaceae,Hyphomonas,
+NONANO_MAG_00026,NVNN,2886949,50,76.05633803,2.816901408,Bacteria,Pseudomonadota,Alphaproteobacteria,,,,
+NONANO_MAG_00027,NVNN,5426983,144,94.36619718,2.816901408,Bacteria,Acidobacteriota,Vicinamibacteria,Vicinamibacterales,UBA2999,CADEFD01,CADEFD01 sp902826515
+NONANO_MAG_00028,NVNN,5096024,29,97.18309859,0.0,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Cyclobacteriaceae,ELB16-189,
+NONANO_MAG_00029,NVNN,4646089,46,97.18309859,0.0,Bacteria,Pseudomonadota,Alphaproteobacteria,Acetobacterales,Acetobacteraceae,Roseococcus,
+NONANO_MAG_00030,NVNN,4383300,31,97.18309859,1.408450704,Bacteria,Bacteroidota,Bacteroidia,AKYH767,B-17BO,UBA2475,UBA2475 sp002319075
+NONANO_MAG_00031,NVNN,6250821,411,95.77464789,1.408450704,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,HTCC2089,CAMAVY01,CAMAVY01 sp945861675
+NONANO_MAG_00032,NVNN,5850214,112,97.18309859,2.816901408,Bacteria,Pseudomonadota,Alphaproteobacteria,Reyranellales,Reyranellaceae,Reyranella,
+NONANO_MAG_00033,NVNN,3655781,40,97.18309859,0.0,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Usitatibacteraceae,UKL13-2,
+NONANO_MAG_00034,NVNN,3407164,22,92.95774648,0.0,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Burkholderiaceae,Limnobacter,
+NONANO_MAG_00035,NVNN,2733033,303,92.95774648,1.408450704,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Burkholderiaceae_C,Zwartia,
+NONANO_MAG_00036,NVNN,3463715,6,91.54929577,0.0,Bacteria,Armatimonadota,Fimbriimonadia,Fimbriimonadales,Fimbriimonadaceae,Fimbriimonas,Fimbriimonas sp016125185
+NONANO_MAG_00037,NVNN,4317356,67,81.69014085,8.450704225,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Tabrizicola,
+NONANO_MAG_00038,NVNN,5100096,127,97.18309859,0.0,Bacteria,Bacteroidota,Kapabacteria,Kapabacteriales,UBA4661,PH2015,PH2015 sp013298775
+NONANO_MAG_00039,NVNN,2329743,544,71.83098592,1.408450704,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhizobiales,Devosiaceae,Devosia_A,Devosia_A sp015657675
+NONANO_MAG_00040,NVNN,4309368,68,73.23943662,0.0,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Burkholderiaceae_B,Rubrivivax,Rubrivivax sp021300575
+NONANO_MAG_00041,NVNN,3493561,24,98.5915493,1.408450704,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UKL13-3,UKL13-3,UKL13-3 sp001602415
+NONANO_MAG_00042,NVNN,4674559,44,97.18309859,0.0,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhizobiales,Aestuariivirgaceae,Aestuariivirga,Aestuariivirga sp022842165
+NONANO_MAG_00043,NVNN,7954608,77,90.14084507,0.0,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Spirosomaceae,Runella,
+NONANO_MAG_00044,NVNN,4734957,74,98.5915493,1.408450704,Bacteria,Planctomycetota,Phycisphaerae,Phycisphaerales,UBA1924,CAILKP01,CAILKP01 sp903834785
+NONANO_MAG_00045,NVNN,2825525,58,85.91549296,1.408450704,Bacteria,Cyanobacteriota,Cyanobacteriia,PCC-6307,Cyanobiaceae,MW101C3,MW101C3 sp002252635
+NONANO_MAG_00046,NVNN,4453064,15,84.50704225,2.816901408,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas_E,
+NONANO_MAG_00047,NVNN,11221309,192,98.5915493,7.042253521,Bacteria,Cyanobacteriota,Cyanobacteriia,Cyanobacteriales,Nostocaceae,Calothrix,
+NONANO_MAG_00048,NVNN,3503563,257,85.91549296,4.225352113,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Burkholderiaceae_B,Polaromonas,
+NONANO_MAG_00049,NVNN,6615398,69,98.5915493,0.0,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Cyclobacteriaceae,Chryseolinea,Chryseolinea sp016735595
+NONANO_MAG_00050,NVNN,1674857,44,95.77464789,5.633802817,Bacteria,,,,,,
+NONANO_MAG_00051,NVNN,3321171,78,80.28169014,0.0,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Tabrizicola_A,Tabrizicola_A sp021741465
+NONANO_MAG_00052,NVNN,7665364,54,95.77464789,0.0,Bacteria,Acidobacteriota,Terriglobia,Bryobacterales,Bryobacteraceae,Ga0077553,Ga0077553 sp945890485
+NONANO_MAG_00053,NVNN,7055437,23,98.5915493,1.408450704,Bacteria,Verrucomicrobiota,Verrucomicrobiae,Verrucomicrobiales,Verrucomicrobiaceae,Prosthecobacter,
+NONANO_MAG_00054,NVNN,3001419,75,100.0,0.0,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Burkholderiaceae,SYFN01,SYFN01 sp021298975
+NONANO_MAG_00055,NVNN,10227440,53,97.18309859,1.408450704,Bacteria,Myxococcota,Polyangia,Polyangiales,Polyangiaceae,CAITIQ01,CAITIQ01 sp903892415
+NONANO_MAG_00056,NVNN,5321802,367,95.77464789,5.633802817,Bacteria,,,,,,
+NONANO_MAG_00057,NVNN,6462859,1113,77.46478873,2.816901408,Bacteria,Planctomycetota,Planctomycetia,Planctomycetales,Planctomycetaceae,SXXK01,SXXK01 sp903921605
+NONANO_MAG_00058,NVNN,5034806,211,97.18309859,0.0,Bacteria,Bacteroidota,Kapabacteria,Kapabacteriales,UBA4661,PH2015,PH2015 sp014654705
+NONANO_MAG_00059,NVNN,5099492,227,71.83098592,1.408450704,Bacteria,Gemmatimonadota,Gemmatimonadetes,Gemmatimonadales,Gemmatimonadaceae,Gemmatimonas,Gemmatimonas sp017991005
+NONANO_MAG_00060,NVNN,3299766,29,92.95774648,0.0,Bacteria,Bacteroidota,Kapabacteria,Kapabacteriales,Kapabacteriaceae,UBA10438,UBA10438 sp002426145
+NONANO_MAG_00061,NVNN,3773041,56,98.5915493,4.225352113,Bacteria,Pseudomonadota,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Phenylobacterium,
+NONANO_MAG_00062,NVNN,3102551,495,88.73239437,2.816901408,Bacteria,Pseudomonadota,Alphaproteobacteria,Acetobacterales,Acetobacteraceae,Roseomonas_B,
+NONANO_MAG_00063,NVNN,3521462,40,77.46478873,4.225352113,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Gemmobacter_B,Gemmobacter_B sp013824045
+NONANO_MAG_00064,NVNN,5716724,51,77.46478873,1.408450704,Bacteria,Actinomycetota,Acidimicrobiia,Acidimicrobiales,Ilumatobacteraceae,VFMC01,VFMC01 sp009704985
+NONANO_MAG_00065,NVNN,5459546,11,94.36619718,2.816901408,Bacteria,,,,,,
+NONANO_MAG_00066,NVNN,4964461,55,76.05633803,0.0,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhizobiales,Kaistiaceae,Bauldia,Bauldia sp023433185
+NONANO_MAG_00067,NVNN,5175032,39,90.14084507,1.408450704,Bacteria,Pseudomonadota,Alphaproteobacteria,,,,
+NONANO_MAG_00068,NVNN,7590774,190,92.95774648,8.450704225,Bacteria,Pseudomonadota,Alphaproteobacteria,Acetobacterales,Acetobacteraceae,Falsiroseomonas,Falsiroseomonas stagni
+NONANO_MAG_00069,NVNN,3586367,42,80.28169014,5.633802817,Bacteria,Pseudomonadota,Alphaproteobacteria,CACIAM-22H2,CACIAM-22H2,Tagaea,Tagaea sp020248985
+NONANO_MAG_00070,NVNN,5282817,28,100.0,0.0,Bacteria,Pseudomonadota,Gammaproteobacteria,Steroidobacterales,Steroidobacteraceae,UBA964,UBA964 sp024234075
+NONANO_MAG_00071,NVNN,4575351,51,98.5915493,0.0,Bacteria,Bacteroidota,Bacteroidia,Chitinophagales,Chitinophagaceae,UBA1930,UBA1930 sp018061385
+NONANO_MAG_00072,NVNN,5151007,582,98.5915493,2.816901408,Bacteria,Pseudomonadota,Alphaproteobacteria,Acetobacterales,Acetobacteraceae,CAMDGX01,CAMDGX01 sp945888575
+NONANO_MAG_00073,NVNN,4425556,82,95.77464789,0.0,Bacteria,Bacteroidota,Bacteroidia,Chitinophagales,Chitinophagaceae,Flavipsychrobacter,Flavipsychrobacter sp021151685
+NONANO_MAG_00074,NVNN,3897522,17,98.5915493,2.816901408,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,GCA-2737725,GCA-2737725 sp002737725

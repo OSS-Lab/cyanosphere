@@ -1,0 +1,7 @@
+outputs/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+pipeline/.cache_08/
+pipeline/.cache_08.log

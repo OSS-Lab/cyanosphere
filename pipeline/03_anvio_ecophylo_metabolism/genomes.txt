@@ -1,0 +1,15 @@
+name	contigs_db_path
+NVNN_P10_R1	/gpfs/home/lifesci/lfsnhf/ANVIO_SPACE/CYANOSPHERE/MEDIA/03_CONTIGS/NVNN_P10_R1-contigs.db
+NVNN_P10_R2	/gpfs/home/lifesci/lfsnhf/ANVIO_SPACE/CYANOSPHERE/MEDIA/03_CONTIGS/NVNN_P10_R2-contigs.db
+NVNN_P10_R3	/gpfs/home/lifesci/lfsnhf/ANVIO_SPACE/CYANOSPHERE/MEDIA/03_CONTIGS/NVNN_P10_R3-contigs.db
+NVNN_P10_R4	/gpfs/home/lifesci/lfsnhf/ANVIO_SPACE/CYANOSPHERE/MEDIA/03_CONTIGS/NVNN_P10_R4-contigs.db
+NV_P10_R1	/gpfs/home/lifesci/lfsnhf/ANVIO_SPACE/CYANOSPHERE/MEDIA/03_CONTIGS/NV_P10_R1-contigs.db
+NV_P10_R2	/gpfs/home/lifesci/lfsnhf/ANVIO_SPACE/CYANOSPHERE/MEDIA/03_CONTIGS/NV_P10_R2-contigs.db
+NV_P10_R3	/gpfs/home/lifesci/lfsnhf/ANVIO_SPACE/CYANOSPHERE/MEDIA/03_CONTIGS/NV_P10_R3-contigs.db
+NV_P10_R4	/gpfs/home/lifesci/lfsnhf/ANVIO_SPACE/CYANOSPHERE/MEDIA/03_CONTIGS/NV_P10_R4-contigs.db
+NV_P10_R5	/gpfs/home/lifesci/lfsnhf/ANVIO_SPACE/CYANOSPHERE/MEDIA/03_CONTIGS/NV_P10_R5-contigs.db
+V_P10_R1	/gpfs/home/lifesci/lfsnhf/ANVIO_SPACE/CYANOSPHERE/MEDIA/03_CONTIGS/V_P10_R1-contigs.db
+V_P10_R2	/gpfs/home/lifesci/lfsnhf/ANVIO_SPACE/CYANOSPHERE/MEDIA/03_CONTIGS/V_P10_R2-contigs.db
+V_P10_R3	/gpfs/home/lifesci/lfsnhf/ANVIO_SPACE/CYANOSPHERE/MEDIA/03_CONTIGS/V_P10_R3-contigs.db
+V_P10_R4	/gpfs/home/lifesci/lfsnhf/ANVIO_SPACE/CYANOSPHERE/MEDIA/03_CONTIGS/V_P10_R4-contigs.db
+V_P10_R5	/gpfs/home/lifesci/lfsnhf/ANVIO_SPACE/CYANOSPHERE/MEDIA/03_CONTIGS/V_P10_R5-contigs.db

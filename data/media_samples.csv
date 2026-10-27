@@ -1,0 +1,43 @@
+sample,sra_name,condition,passage,replicate,lab_description
+M_108,,V,parent,,WAMOS nutrients parent VR 16/8/23
+M_109,,V,intermediate (25/1/2024),1,WAMOS nutrients VR1 25/1/24
+M_110,,V,intermediate (25/1/2024),2,WAMOS nutrients VR2 25/1/24
+M_111,,V,intermediate (25/1/2024),3,WAMOS nutrients VR3 25/1/24
+M_112,,V,intermediate (25/1/2024),4,WAMOS nutrients VR4 25/1/24
+M_113,,V,intermediate (25/1/2024),5,WAMOS nutrients VR5 25/1/24
+M_114,,V,intermediate (25/1/2024),,WAMOS nutrients V4 25/1/24
+M_116,,NV,parent,,WAMOS nutrient parent NVR 16/8/23
+M_117,,NV,intermediate (25/1/2024),1,WAMOS nutrient NVR1 25/1/2024
+M_118,,NV,intermediate (25/1/2024),2,WAMOS nutrient NVR2 25/1/2024
+M_119,,NV,intermediate (25/1/2024),3,WAMOS nutrient NVR3 25/1/2024
+M_120,,NV,intermediate (25/1/2024),4,WAMOS nutrient NVR4 25/1/2024
+M_121,,NV,intermediate (25/1/2024),5,WAMOS nutrient NVR5 25/1/2024
+M_122,,NV,intermediate (25/1/2024),,WAMOS nutrient NV2 25/1/2024
+M_124,,NVNN,parent,,WAMOS nutrients parent NVN2 16/8/2023
+M_125,,NVNN,intermediate (25/1/2024),1,WAMOS nutrients NVNR1 25/1/2024
+M_126,,NVNN,intermediate (25/1/2024),2,WAMOS nutrients NVNR2 25/1/2024
+M_127,,NVNN,intermediate (25/1/2024),3,WAMOS nutrients NVNR3 25/1/2024
+M_128,,NVNN,intermediate (25/1/2024),4,WAMOS nutrients NVNR4 25/1/2024
+M_129,,NVNN,intermediate (25/1/2024),5,WAMOS nutrients NVNR5 25/1/2024
+M_130,,NVNN,intermediate (25/1/2024),,WAMOS nutrients NVN2 25/1/2024
+M_280,,V,P12,3,"WAMOS nutrients BG11+ VIT mix , P12, Rep 3"
+M_281,,V,P12,4,"WAMOS nutrients BG11+ VIT mix , P12, Rep 4"
+M_282,,V,P12,5,"WAMOS nutrients BG11+ VIT mix , P12, Rep 5"
+M_283,V_P10_R1,V,P10,1,"WAMOS nutrients BG11+ VIT mix , P10, Repeat 1"
+M_284,V_P10_R2,V,P10,2,"WAMOS nutrients BG11+ VIT mix , P10, Repeat 2"
+M_285,V_P10_R3,V,P10,3,"WAMOS nutrients BG11+ VIT mix , P10, Repeat 3"
+M_286,V_P10_R4,V,P10,4,"WAMOS nutrients BG11+ VIT mix , P10, Repeat 4"
+M_287,V_P10_R5,V,P10,5,"WAMOS nutrients BG11+ VIT mix , P10, Repeat 5"
+M_288,,NV,P12,1,"WAMOS nutrients BG11 + No VIT mix , P12, Rep 1"
+M_289,,NV,P12,2,"WAMOS nutrients BG11 + No VIT mix , P12, Rep 2"
+M_290,,NV,P12,4,"WAMOS nutrients BG11 + No VIT mix , P12, Rep 4"
+M_291,,NV,P12,5,"WAMOS nutrients BG11 + No VIT mix , P12, Rep 5"
+M_292,NV_P10_R1,NV,P10,1,"WAMOS nutrients BG11 + No VIT mix , P10, Repeat 1"
+M_293,NV_P10_R2,NV,P10,2,"WAMOS nutrients BG11 + No VIT mix , P10, Repeat 2"
+M_294,NV_P10_R3,NV,P10,3,"WAMOS nutrients BG11 + No VIT mix , P10, Repeat 3"
+M_295,NV_P10_R4,NV,P10,4,"WAMOS nutrients BG11 + No VIT mix , P10, Repeat 4"
+M_296,NV_P10_R5,NV,P10,5,"WAMOS nutrients BG11 + No VIT mix , P10, Repeat 5"
+M_297,NVNN_P10_R1,NVNN,P10,1,"WAMOS nutrients BG11 + No VIT mix , No nitrate, P10, Repeat 1"
+M_298,NVNN_P10_R2,NVNN,P10,2,"WAMOS nutrients BG11 + No VIT mix , No nitrate, P10, Repeat 2"
+M_299,NVNN_P10_R3,NVNN,P10,3,"WAMOS nutrients BG11 + No VIT mix , No nitrate, P10, Repeat 3"
+M_300,NVNN_P10_R4,NVNN,P10,4,"WAMOS nutrients BG11 + No VIT mix , No nitrate, P10, Repeat 4"

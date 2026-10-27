@@ -1,0 +1,17 @@
+{
+  "title": "CyanoSphere: code and derived data for Scarampi et al., convergent metabolic functions in cyanobacterial communities",
+  "upload_type": "software",
+  "description": "<p>Code and derived data tables that regenerate every number, table and figure panel of <em>Convergent metabolic functions in cyanobacterial communities emerge from imposed and community-derived niches</em> (Scarampi, Duxbury, Coates, Eren, Soyer), with the HPC jobs that produced the tables from reads and a step-by-step workflow (WORKFLOW.md). Raw reads and MAGs: NCBI BioProject PRJNA1432497.</p>",
+  "creators": [
+    {"name": "Scarampi, Alberto", "affiliation": "University of Warwick"},
+    {"name": "Duxbury, Sarah J. N.", "affiliation": "University of Warwick"},
+    {"name": "Coates, Mary", "affiliation": "University of Warwick"},
+    {"name": "Eren, A. Murat", "affiliation": "Helmholtz Institute for Functional Marine Biodiversity"},
+    {"name": "Soyer, Orkun S.", "affiliation": "University of Warwick"}
+  ],
+  "license": "MIT",
+  "keywords": ["metagenomics", "anvi'o", "EcoPhylo", "cyanobacteria", "enrichment cultures", "KEGG modules", "freshwater"],
+  "related_identifiers": [
+    {"identifier": "PRJNA1432497", "relation": "isSupplementTo", "scheme": "other", "resource_type": "dataset"}
+  ]
+}

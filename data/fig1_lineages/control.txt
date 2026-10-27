@@ -1,0 +1,2 @@
+mean r = 1.0 | max abs diff 0.42 | detected old/new 61 61
+Q2Q3 r = 1.0 | max abs diff 144.86 | detected old/new 61 61

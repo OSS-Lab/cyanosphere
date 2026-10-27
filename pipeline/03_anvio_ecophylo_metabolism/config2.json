@@ -1,0 +1,135 @@
+{
+    "metagenomes": "metagenomes.txt",
+    "external_genomes": "dereplicated-genomes.txt",
+    "hmm_list": "hmm-list.txt",
+    "samples_txt": "samples.txt",
+    "cluster_representative_method": {
+        "method": "mmseqs"
+    },
+    "anvi_run_hmms_hmmsearch": {
+        "threads_genomes": 48,
+        "threads_metagenomes": 48,
+        "additional_params": "",
+        "threads": ""
+    },
+    "filter_hmm_hits_by_model_coverage": {
+        "--min-model-coverage": 0.8,
+        "--filter-out-partial-gene-calls": true,
+        "--min-gene-coverage": "",
+        "additional_params": "",
+        "threads": 48
+    },
+    "process_hmm_hits": {
+        "threads": 48
+    },
+    "combine_sequence_data": {
+        "threads": 48
+    },
+    "anvi_get_external_gene_calls_file": {
+        "threads": 48
+    },
+    "cat_external_gene_calls_file": {
+        "threads": 48
+    },
+    "cluster_X_percent_sim_mmseqs": {
+        "threads": 48,
+        "--min-seq-id": 0.97,
+        "--cov-mode": 1,
+        "clustering_threshold_for_OTUs": [
+            0.99,
+            0.98
+        ],
+        "AA_mode": false,
+        "additional_params": ""
+    },
+    "subset_AA_seqs_with_mmseqs_reps": {
+        "threads": 48
+    },
+    "align_sequences": {
+        "threads": 48,
+        "additional_params": "-maxiters 1 -diags -sv -distance1 kbit20_3"
+    },
+    "trim_alignment": {
+        "threads": 48,
+        "-gappyout": true,
+        "-gt": "",
+        "additional_params": ""
+    },
+    "remove_sequences_with_X_percent_gaps": {
+        "threads": 48,
+        "--max-percentage-gaps": 50
+    },
+    "count_num_sequences_filtered": {
+        "threads": 48
+    },
+    "subset_DNA_reps_with_QCd_AA_reps_for_mapping": {
+        "threads": 48
+    },
+    "subset_external_gene_calls_file_all": {
+        "threads": 48
+    },
+    "make_fasta_txt": {
+        "threads": 48
+    },
+    "fasttree": {
+        "run": true,
+        "threads": 48
+    },
+    "iqtree": {
+        "threads": 5,
+        "-m": "MFP",
+        "run": "",
+        "additional_params": ""
+    },
+    "make_metagenomics_config_file": {
+        "threads": 48
+    },
+    "run_metagenomics_workflow": {
+        "threads": 48,
+        "clusterize": false,
+        "clusterize_submission_params": "",
+        "HPC_string": "",
+        "snakemake_additional_params": "",
+        "bowtie2_additional_params": "",
+        "anvi_profile_min_percent_identity": ""
+    },
+    "add_default_collection": {
+        "threads": 48
+    },
+    "anvi_summarize": {
+        "threads": ""
+    },
+    "rename_tree_tips": {
+        "threads": 48
+    },
+    "make_misc_data": {
+        "threads": 48
+    },
+    "anvi_scg_taxonomy": {
+        "threads": 48
+    },
+    "make_anvio_state_file": {
+        "threads": 48
+    },
+    "anvi_import_everything": {
+        "threads": 48
+    },
+    "run_genomes_sanity_check": true,
+    "scg_taxonomy_database_version": "GTDB: v214.1; Anvi'o: v1",
+    "gene_caller_to_use": "",
+    "output_dirs": {
+        "HOME": "ECOPHYLO",
+        "EXTRACTED_RIBO_PROTEINS_DIR": "ECOPHYLO/01_REFERENCE_PROTEIN_DATA",
+        "RIBOSOMAL_PROTEIN_FASTAS": "ECOPHYLO/02_NR_FASTAS",
+        "MSA": "ECOPHYLO/03_MSA",
+        "RIBOSOMAL_PROTEIN_MSA_STATS": "ECOPHYLO/04_SEQUENCE_STATS",
+        "TREES": "ECOPHYLO/05_TREES",
+        "MISC_DATA": "ECOPHYLO/06_MISC_DATA",
+        "SCG_NT_FASTAS": "ECOPHYLO/07_SCG_NT_FASTAS",
+        "RIBOSOMAL_PROTEIN_FASTAS_RENAMED": "ECOPHYLO/08_RIBOSOMAL_PROTEIN_FASTAS_RENAMED",
+        "LOGS_DIR": "LOGS"
+    },
+    "max_threads": 48,
+    "config_version": "3",
+    "workflow_name": "ecophylo"
+}

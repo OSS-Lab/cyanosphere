@@ -1,0 +1,13 @@
+# Versions with which every number, table and figure in the paper was produced.
+name: cyanosphere
+channels: [conda-forge]
+dependencies:
+  - python=3.10
+  - pandas=2.3
+  - numpy=2.2
+  - scipy=1.15
+  - scikit-learn=1.7
+  - statsmodels=0.14
+  - matplotlib=3.10
+  - scikit-bio=0.7.3
+  - pymupdf>=1.24       # places the schematic and anvi'o vector crops into the figures

@@ -1,0 +1,89 @@
+MAG_name	NCBI_organism_name	GTDB_taxonomy	phylum	class	order	family	genus	species	completeness	contamination	quality
+Aestuariivirga_sp020252405	Aestuariivirga sp.	Aestuariivirga sp.	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Aestuariivirgaceae	Aestuariivirga		81.69	1.41	Medium Quality Draft
+Algoriphagus	Algoriphagus sp.	Algoriphagus sp018336015	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	Algoriphagus	Algoriphagus sp018336015	95.77	5.63	Medium Quality Draft
+Aquibium_microcysteis	Aquibium microcysteis	Aquibium microcysteis	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Aquibium	Aquibium microcysteis	100.0	0.0	High Quality Draft
+Aquimonas_sp014946745	Aquimonas sp.	Aquimonas sp.	Pseudomonadota	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Aquimonas		100.0	1.41	High Quality Draft
+Bosea	Bosea sp.	Bosea sp023910605	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Bosea	Bosea sp023910605	100.0	0.0	High Quality Draft
+Brevundimonas	Brevundimonas sp.	Brevundimonas sp.	Pseudomonadota	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas		100.0	0.0	High Quality Draft
+CAMAXB01_sp945862035	Opitutaceae bacterium	CAMAXB01 sp945862035	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae	CAMAXB01	CAMAXB01 sp945862035	97.18	2.82	High Quality Draft
+Chryseoglobus_sp024362325	Chryseoglobus sp.	Chryseoglobus sp024362325	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Chryseoglobus	Chryseoglobus sp024362325	98.59	0.0	High Quality Draft
+Cyanobium_sp016882315	Cyanobium sp.	Cyanobium sp.	Cyanobacteriota	Cyanobacteriia	PCC-6307	Cyanobiaceae	Cyanobium		98.59	1.41	High Quality Draft
+Devosia_A	Devosia A sp.	Devosia A sp023415605	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Devosiaceae	Devosia_A	Devosia_A sp023415605	100.0	4.23	High Quality Draft
+FCNU01_sp001545115	Parachlamydiaceae bacterium	FCNU01 sp001545115	Chlamydiota	Chlamydiia	Chlamydiales	Parachlamydiaceae	FCNU01	FCNU01 sp001545115	95.77	1.41	High Quality Draft
+Falsiroseomonas	Falsiroseomonas sp.	Falsiroseomonas sp005222815	Pseudomonadota	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Falsiroseomonas	Falsiroseomonas sp005222815	90.14	0.0	High Quality Draft
+Falsiroseomonas_oleicola	Falsiroseomonas oleicola	Falsiroseomonas oleicola	Pseudomonadota	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Falsiroseomonas	Falsiroseomonas oleicola	97.18	0.0	High Quality Draft
+Falsiroseomonas_sp021864505	Falsiroseomonas sp.	Falsiroseomonas sp021864505	Pseudomonadota	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Falsiroseomonas	Falsiroseomonas sp021864505	100.0	1.41	High Quality Draft
+Ferrovibrio_sp002482765	Ferrovibrio sp.	Ferrovibrio sp002482765	Pseudomonadota	Alphaproteobacteria	Ferrovibrionales	Ferrovibrionaceae	Ferrovibrio	Ferrovibrio sp002482765	100.0	2.82	High Quality Draft
+Ferrovibrio_sp023434425	Ferrovibrio sp.	Ferrovibrio sp023434425	Pseudomonadota	Alphaproteobacteria	Ferrovibrionales	Ferrovibrionaceae	Ferrovibrio	Ferrovibrio sp023434425	100.0	0.0	High Quality Draft
+Flavipsychrobacter_sp021740995	Flavipsychrobacter sp.	Flavipsychrobacter sp021740995	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Flavipsychrobacter	Flavipsychrobacter sp021740995	95.77	2.82	High Quality Draft
+Flavipsychrobacter_stenotrophus_A	Flavipsychrobacter stenotrophus	Flavipsychrobacter stenotrophus A	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Flavipsychrobacter	Flavipsychrobacter stenotrophus_A	97.18	0.0	High Quality Draft
+Flavobacterium_sp002428305	Flavobacterium sp.	Flavobacterium sp.	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Flavobacterium		95.77	2.82	High Quality Draft
+Flavobacterium_sp002786385	Flavobacterium sp.	Flavobacterium sp.	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Flavobacterium		98.59	0.0	High Quality Draft
+GCA_2786225	Leptospiraceae bacterium	GCA-2786225 sp.	Spirochaetota	Leptospirae	Leptospirales	Leptospiraceae	GCA-2786225		94.37	1.41	High Quality Draft
+GCA_2794515	Phototrophicaceae bacterium	GCA-2794515 sp002794515	Chloroflexota	Anaerolineae	Aggregatilineales	Phototrophicaceae	GCA-2794515	GCA-2794515 sp002794515	97.18	1.41	High Quality Draft
+Ga0077553_sp001464575	Bryobacteraceae bacterium	Ga0077553 sp001464575	Acidobacteriota	Terriglobia	Bryobacterales	Bryobacteraceae	Ga0077553	Ga0077553 sp001464575	97.18	1.41	High Quality Draft
+Geminocystis_sp001548095	Cyanobacteriales bacterium	unclassified	Cyanobacteriota	Cyanobacteriia	Cyanobacteriales				97.18	1.41	High Quality Draft
+Gemmata_sp013823135	Gemmata sp.	Gemmata sp013823135	Planctomycetota	Planctomycetia	Gemmatales	Gemmataceae	Gemmata	Gemmata sp013823135	98.59	4.23	High Quality Draft
+Gemmatimonas_sp002483225	Gemmatimonas sp.	Gemmatimonas sp021299375	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	Gemmatimonas	Gemmatimonas sp021299375	98.59	1.41	High Quality Draft
+Gemmobacter	Gemmobacter B sp.	Gemmobacter B sp022843025	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Gemmobacter_B	Gemmobacter_B sp022843025	88.73	1.41	Medium Quality Draft
+Hoeflea_sp014359905	Hoeflea sp.	Hoeflea sp.	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Hoeflea		100.0	1.41	High Quality Draft
+Hydrogenophaga	Hydrogenophaga sp.	Hydrogenophaga sp.	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae_B	Hydrogenophaga		100.0	1.41	High Quality Draft
+Hydrogenophaga_sp002127215	Hydrogenophaga sp.	Hydrogenophaga sp011390835	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae_B	Hydrogenophaga	Hydrogenophaga sp011390835	100.0	1.41	High Quality Draft
+Hydrogenophaga_sp002127265	Hydrogenophaga sp.	Hydrogenophaga sp002127265	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae_B	Hydrogenophaga	Hydrogenophaga sp002127265	94.37	2.82	High Quality Draft
+Hyphomonas_sp022844445	Hyphomonas sp.	Hyphomonas sp.	Pseudomonadota	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Hyphomonas		100.0	0.0	High Quality Draft
+Ilumatobacter_sp022843125	Ilumatobacter sp.	Ilumatobacter sp022843125	Actinomycetota	Acidimicrobiia	Acidimicrobiales	Ilumatobacteraceae	Ilumatobacter	Ilumatobacter sp022843125	100.0	2.82	High Quality Draft
+Ilumatobacteraceae_sp_novus	uncultured bacterium	unclassified							97.18	5.63	Medium Quality Draft
+JAABRT01_sp011390935	Gemmatimonadaceae bacterium	JAABRT01 sp011390935	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	JAABRT01	JAABRT01 sp011390935	100.0	0.0	High Quality Draft
+JAAUUE01_sp020692245	Cyanobacteriales bacterium	JAAUUE01 sp020692245	Cyanobacteriota	Cyanobacteriia	Cyanobacteriales	JAAUUE01	JAAUUE01	JAAUUE01 sp020692245	97.18	2.82	High Quality Draft
+JABMMZ01_sp945871905	Bacteroidia bacterium	JABMMZ01 sp945871905	Bacteroidota	Bacteroidia	NS11-12g	UBA955	JABMMZ01	JABMMZ01 sp945871905	97.18	1.41	High Quality Draft
+JACTMZ01_sp018883245	Chthoniobacterales bacterium	JACTMZ01 sp018883245	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	JACTMZ01	JACTMZ01	JACTMZ01 sp018883245	98.59	5.63	Medium Quality Draft
+JAEXNA01_sp023447635	Xenobiales bacterium	JAEXNA01 sp023447635	Eremiobacterota	Xenobia	Xenobiales	JADMJV01	JAEXNA01	JAEXNA01 sp023447635	98.59	8.45	Medium Quality Draft
+JAEYWW01_sp023428805	Fimbriimonadaceae bacterium	JAEYWW01 sp023428805	Armatimonadota	Fimbriimonadia	Fimbriimonadales	Fimbriimonadaceae	JAEYWW01	JAEYWW01 sp023428805	92.96	0.0	High Quality Draft
+JAEZAS01_sp023430365	Pirellulaceae bacterium	unclassified	Planctomycetota	Planctomycetia	Pirellulales	Pirellulaceae			97.18	0.0	High Quality Draft
+JAFAFN01	uncultured bacterium	unclassified							98.59	0.0	High Quality Draft
+JAHBTC01_sp002162095	Fimbriimonadaceae bacterium	JAHBTC01 sp.	Armatimonadota	Fimbriimonadia	Fimbriimonadales	Fimbriimonadaceae	JAHBTC01		90.14	1.41	High Quality Draft
+JAHBXV01_sp019636285	Planctomycetaceae bacterium	JAHBXV01 sp019636285	Planctomycetota	Planctomycetia	Planctomycetales	Planctomycetaceae	JAHBXV01	JAHBXV01 sp019636285	91.55	4.23	High Quality Draft
+Lacibacter_sp023428755	Lacibacter sp.	Lacibacter sp023428755	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Lacibacter	Lacibacter sp023428755	81.69	9.86	Medium Quality Draft
+Lacunisphaera_sp001464505	Lacunisphaera sp.	Lacunisphaera sp.	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae	Lacunisphaera		94.37	4.23	High Quality Draft
+Leptospira_A_ognonensis	Leptospira A	Leptospira A ognonensis	Spirochaetota	Leptospirae	Leptospirales	Leptospiraceae	Leptospira_A	Leptospira_A ognonensis	94.37	7.04	Medium Quality Draft
+Limnobacter_sp000170915	Limnobacter sp.	Limnobacter sp.	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Limnobacter		98.59	1.41	High Quality Draft
+Luteitalea_sp001464065	Luteitalea sp.	Luteitalea sp001464065	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	Luteitalea	Luteitalea sp001464065	100.0	8.45	Medium Quality Draft
+MW101C3_sp002252635	Cyanobiaceae bacterium	MW101C3 sp002252635	Cyanobacteriota	Cyanobacteriia	PCC-6307	Cyanobiaceae	MW101C3	MW101C3 sp002252635	98.59	1.41	High Quality Draft
+Mesorhizobium_sp000502715	Mesorhizobium A sp.	Mesorhizobium A sp024710845	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Mesorhizobium_A	Mesorhizobium_A sp024710845	94.37	4.23	High Quality Draft
+Microcoleus_sp012035135	Microcoleus sp.	Microcoleus sp012035135	Cyanobacteriota	Cyanobacteriia	Cyanobacteriales	Microcoleaceae	Microcoleus	Microcoleus sp012035135	95.77	2.82	High Quality Draft
+Microcoleus_sp015207285	Microcoleus sp.	Microcoleus sp.	Cyanobacteriota	Cyanobacteriia	Cyanobacteriales	Microcoleaceae	Microcoleus		81.69	8.45	Medium Quality Draft
+Nodosilinea	Nodosilinea sp.	Nodosilinea sp.	Cyanobacteriota	Cyanobacteriia	Phormidesmiales	Phormidesmiaceae	Nodosilinea		97.18	2.82	High Quality Draft
+PH2015_sp014654705	Kapabacteriales bacterium	PH2015 sp014654705	Bacteroidota	Kapabacteria	Kapabacteriales	UBA4661	PH2015	PH2015 sp014654705	100.0	0.0	High Quality Draft
+PHOS_HE28	Flavobacteriales bacterium	PHOS-HE28 sp016788295	Bacteroidota	Bacteroidia	Flavobacteriales	PHOS-HE28	PHOS-HE28	PHOS-HE28 sp016788295	98.59	0.0	High Quality Draft
+PNNG01_sp013824115	Bacteroidia bacterium	PNNG01 sp013824115	Bacteroidota	Bacteroidia	UBA7662	UBA7662	PNNG01	PNNG01 sp013824115	98.59	0.0	High Quality Draft
+Phreatobacter	Phreatobacter sp.	Phreatobacter sp.	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Phreatobacteraceae	Phreatobacter		97.18	0.0	High Quality Draft
+Planctopirus_sp013822855	Planctopirus sp.	Planctopirus sp013822855	Planctomycetota	Planctomycetia	Planctomycetales	Planctomycetaceae	Planctopirus	Planctopirus sp013822855	91.55	1.41	High Quality Draft
+Prosthecobacter_sp021151605	Prosthecobacter sp.	Prosthecobacter sp021151605	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	Prosthecobacter	Prosthecobacter sp021151605	95.77	4.23	High Quality Draft
+Pseudanabaena_biceps	Pseudanabaena sp.	Pseudanabaena sp.	Cyanobacteriota	Cyanobacteriia	Pseudanabaenales	Pseudanabaenaceae	Pseudanabaena		98.59	4.23	High Quality Draft
+Pseudorhodoplanes_sp023430245	Pseudorhodoplanes sp.	Pseudorhodoplanes sp023430245	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Pseudorhodoplanes	Pseudorhodoplanes sp023430245	100.0	1.41	High Quality Draft
+Pseudoxanthobacter_soli_A	Pseudoxanthobacter soli	Pseudoxanthobacter soli A	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Pseudoxanthobacteraceae	Pseudoxanthobacter	Pseudoxanthobacter soli_A	100.0	0.0	High Quality Draft
+RCIO01_sp023435335	Rhizobiaceae bacterium	unclassified	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae			98.59	0.0	High Quality Draft
+Reyranella	Reyranella sp.	Reyranella sp.	Pseudomonadota	Alphaproteobacteria	Reyranellales	Reyranellaceae	Reyranella		100.0	0.0	High Quality Draft
+Rhabdaerophilum_sp020252865	Rhabdaerophilum sp.	Rhabdaerophilum sp017302635	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Rhabdaerophilum	Rhabdaerophilum sp017302635	100.0	0.0	High Quality Draft
+Runella_sp009905605	Runella sp.	Runella sp.	Bacteroidota	Bacteroidia	Cytophagales	Spirosomaceae	Runella		95.77	4.23	High Quality Draft
+SHZI01_sp016789885	Gammaproteobacteria bacterium	SHZI01 sp016789885	Pseudomonadota	Gammaproteobacteria	GCA-2729495	GCA-2729495	SHZI01	SHZI01 sp016789885	100.0	0.0	High Quality Draft
+SLDF01_sp016706365	Saprospiraceae bacterium	SLDF01 sp016706365	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	SLDF01	SLDF01 sp016706365	97.18	0.0	High Quality Draft
+SXYR01_sp015654495	Chitinophagaceae bacterium	SXYR01 sp015654495	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	SXYR01	SXYR01 sp015654495	97.18	2.82	High Quality Draft
+Scytolyngbya_sp019359045	Scytolyngbya sp.	Scytolyngbya sp019359045	Cyanobacteriota	Cyanobacteriia	Leptolyngbyales	Leptolyngbyaceae	Scytolyngbya	Scytolyngbya sp019359045	95.77	2.82	High Quality Draft
+Solirubrobacterales_67_14	70-9 bacterium	unclassified	Actinomycetota	Thermoleophilia	Solirubrobacterales	70-9			97.18	2.82	High Quality Draft
+Sphingopyxis_sp012035435	Sphingopyxis sp.	Sphingopyxis sp013911715	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingopyxis	Sphingopyxis sp013911715	100.0	0.0	High Quality Draft
+Tagaea_sp017308135	Tagaea sp.	Tagaea sp.	Pseudomonadota	Alphaproteobacteria	CACIAM-22H2	CACIAM-22H2	Tagaea		92.96	1.41	High Quality Draft
+Tagaea_sp023653245	Tagaea sp.	Tagaea sp023653245	Pseudomonadota	Alphaproteobacteria	CACIAM-22H2	CACIAM-22H2	Tagaea	Tagaea sp023653245	100.0	2.82	High Quality Draft
+UBA2377_sp002344205	Opitutaceae bacterium	UBA2377 sp002344205	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae	UBA2377	UBA2377 sp002344205	88.73	7.04	Medium Quality Draft
+UBA6163_sp003506095	Pirellulaceae bacterium	UBA6163 sp002428205	Planctomycetota	Planctomycetia	Pirellulales	Pirellulaceae	UBA6163	UBA6163 sp002428205	97.18	4.23	High Quality Draft
+UBA6165_sp002422285	Crocinitomicaceae bacterium	UBA6165 sp002422285	Bacteroidota	Bacteroidia	Flavobacteriales	Crocinitomicaceae	UBA6165	UBA6165 sp002422285	95.77	0.0	High Quality Draft
+UBA6183_sp002422865	Bacteroidia bacterium	UBA6183 sp002422865	Bacteroidota	Bacteroidia	NS11-12g	UKL13-3	UBA6183	UBA6183 sp002422865	98.59	1.41	High Quality Draft
+UBA6669_sp016794625	Opitutaceae bacterium	UBA6669 sp016794625	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae	UBA6669	UBA6669 sp016794625	94.37	5.63	Medium Quality Draft
+UBA7672_sp002483135	Hyphomonadaceae bacterium	UBA7672 sp002280725	Pseudomonadota	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	UBA7672	UBA7672 sp002280725	100.0	0.0	High Quality Draft
+UBA964	Gammaproteobacteria bacterium	unclassified	Pseudomonadota	Gammaproteobacteria					100.0	0.0	High Quality Draft
+UphvI_Ar2	UphvI-Ar2 sp.	UphvI-Ar2 sp020161505	Armatimonadota	Fimbriimonadia	Fimbriimonadales	Fimbriimonadaceae	UphvI-Ar2	UphvI-Ar2 sp020161505	92.96	1.41	High Quality Draft
+UphvI_Ar2_sp020161505	UphvI-Ar2 sp.	UphvI-Ar2 sp020161505	Armatimonadota	Fimbriimonadia	Fimbriimonadales	Fimbriimonadaceae	UphvI-Ar2	UphvI-Ar2 sp020161505	92.96	1.41	High Quality Draft
+VFMC01_sp009704985	Ilumatobacteraceae bacterium	VFMC01 sp009704985	Actinomycetota	Acidimicrobiia	Acidimicrobiales	Ilumatobacteraceae	VFMC01	VFMC01 sp009704985	95.77	1.41	High Quality Draft
+Vitreimonas_sp023242925	Vitreimonas sp.	Vitreimonas sp023242925	Pseudomonadota	Alphaproteobacteria	Caulobacterales	TH1-2	Vitreimonas	Vitreimonas sp023242925	100.0	0.0	High Quality Draft
+WH_5701	Cyanobiaceae bacterium	WH-5701 sp.	Cyanobacteriota	Cyanobacteriia	PCC-6307	Cyanobiaceae	WH-5701		98.59	1.41	High Quality Draft
+Yonghaparkia_flavibacter	Yonghaparkia flavibacter	Yonghaparkia flavibacter	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Yonghaparkia	Yonghaparkia flavibacter	91.55	1.41	High Quality Draft

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper (reference to be added on publication) and this archive."
+title: "CyanoSphere: code and derived data for Scarampi et al., convergent metabolic functions in cyanobacterial communities"
+type: software
+license: MIT
+authors:
+  - family-names: Scarampi
+    given-names: Alberto
+  - family-names: Duxbury
+    given-names: Sarah J. N.
+  - family-names: Coates
+    given-names: Mary
+  - family-names: Eren
+    given-names: A. Murat
+  - family-names: Soyer
+    given-names: Orkun S.
+repository-code: "https://github.com/OSS-Lab/cyanosphere"

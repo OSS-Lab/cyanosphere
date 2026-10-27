@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "upload_type": "dataset",
+    "title": "CyanoSphere anvi'o data pack: contigs and profile databases, EcoPhylo runs and MAGs for Scarampi et al.",
+    "creators": [
+      {"name": "Scarampi, Alberto", "affiliation": "University of Warwick"},
+      {"name": "Duxbury, Sarah J. N.", "affiliation": "University of Warwick"},
+      {"name": "Coates, Mary", "affiliation": "University of Warwick"},
+      {"name": "Eren, A. Murat", "affiliation": "Helmholtz Institute for Functional Marine Biodiversity"},
+      {"name": "Soyer, Orkun S.", "affiliation": "University of Warwick"}
+    ],
+    "description": "<p>anvi'o databases and outputs behind <em>Convergent metabolic functions in cyanobacterial communities emerge from imposed and community-derived niches</em> (Scarampi et al.). Eight long-term photosynthetic enrichments and eight samples of Draycote Reservoir (UK), and a media experiment (V, NV, NVNN). The derived tables used for every number in the paper, the code, and a step-by-step workflow are in the code archive (doi:10.5281/zenodo.23498485; https://github.com/OSS-Lab/cyanosphere). Raw reads and MAGs: NCBI BioProject PRJNA1432497. See README.md in this record for the contents of each archive.</p>",
+    "access_right": "open",
+    "license": "cc-by-4.0",
+    "keywords": ["metagenomics", "anvi'o", "EcoPhylo", "cyanobacteria", "enrichment cultures", "freshwater", "KEGG modules"],
+    "related_identifiers": [
+      {"identifier": "10.5281/zenodo.23498485", "relation": "isSupplementTo", "scheme": "doi"},
+      {"identifier": "https://github.com/OSS-Lab/cyanosphere", "relation": "isSupplementTo", "scheme": "url"}
+    ],
+    "prereserve_doi": true
+  }
+}
