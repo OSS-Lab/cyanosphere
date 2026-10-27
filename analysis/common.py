@@ -1,9 +1,6 @@
 """
 Shared definitions for the CyanoSphere analysis.
 
-Everything that more than one script needs lives here: where the data is, how the
-two functional metrics are defined, how differential tests are done, and the
-figure style. Nothing here reads or writes outside the repository.
 """
 from __future__ import annotations
 
